@@ -1,4 +1,4 @@
-# MERN-Assignment-1 What happens between typing a URL and seeing the page?
+# Assignment-1 What happens between typing a URL and seeing the page?
 
 1. Cache check: Browser pehle apne cache me chek karta hai ki uske paas yaad me IP address to nahi hai.
 2. DNS lookup: Agar cache me nahi milta, toh browser DNS server se domain name (`example.com`) ko IP address me convert karne ko kehta hai.
